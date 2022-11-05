@@ -1,1 +1,1 @@
-# Number Sequence Calculator
+#Logical Number Sequence Calculator
