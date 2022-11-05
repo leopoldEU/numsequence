@@ -1,1 +1,1 @@
-# numsequence
+# Number Sequence Calculator
